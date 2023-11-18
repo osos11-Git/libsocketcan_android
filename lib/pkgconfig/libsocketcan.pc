@@ -1,0 +1,10 @@
+prefix=/home/ubuntu/Android/libsocketcan-0.0.12/out
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: libsocketcan
+Description: provides access to socketcan configuration interface
+Version: 0.0.12
+Libs: -L${libdir} -lsocketcan
+Cflags: -I${includedir}
