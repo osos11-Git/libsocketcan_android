@@ -1,6 +1,6 @@
 # libsocketcan_android
 
-My Android : Oneplus5(Snapdragon 835), Android 12.1 PixelExperience, Custom Compiled Socketcan Support 4.4.302 Kernel
+My Android : Oneplus5(Snapdragon 835), Android 12.1 PixelExperience, Custom Compiled 4.4.302 Kernel with Socketcan Support
 
 I compiled via NDK 26.1 and I tested the libsocketcan library via Qt 6.5.3 for Android 12.1.
 
